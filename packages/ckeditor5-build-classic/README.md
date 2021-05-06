@@ -23,7 +23,7 @@ See:
 First, install the build from npm:
 
 ```bash
-npm install --save @ckeditor/ckeditor5-build-classic
+npm install --save @chofongsua/ckeditor5-custom-build-1
 ```
 
 And use it in your website:
